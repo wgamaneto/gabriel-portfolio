@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0.196 64.83 57.875" viewBox="0 0 24 46.25" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <g fill-rule="evenodd">
+            <path d="M6.585 11.293c-3.052 0-5.549-2.497-5.549-5.549 0-3.05 2.497-5.548 5.55-5.548h11.052c3.051 0 5.548 2.497 5.548 5.548 0 3.052-2.497 5.55-5.548 5.55H6.585Z" fill="#000000"/>
+            <path d="M6.438 23.996h5.65v-11.1h-5.65a5.532 5.532 0 0 0-3.917 1.63 5.537 5.537 0 0 0-1.63 3.923c0 3.05 2.496 5.547 5.547 5.547" fill="#000000"/>
+            <path d="M18.176 13.01a5.55 5.55 0 1 0 0 11.098 5.55 5.55 0 0 0 0-11.099" fill="#000000"/>
+            <path d="M12.078 25.578H6.33v.012a5.543 5.543 0 0 0-5.338 5.538 5.545 5.545 0 0 0 11.083.282h.003v-.064c.003-.073.01-.145.01-.218 0-.075-.007-.146-.01-.22v-5.33Z" fill="#000000"/>
+        </g>
+        <text font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5" fill="#000000" y="52">Created by Anton Barbarov</text>
+        <text font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5" fill="#000000" y="57">from the Noun Project</text>
+    </g>
+</svg>
